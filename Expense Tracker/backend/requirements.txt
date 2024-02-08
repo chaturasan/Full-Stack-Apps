@@ -1,0 +1,5 @@
+flask
+Flask-SQLAlchemy
+schema
+mysqlclient
+Flask-JWT-Extended
